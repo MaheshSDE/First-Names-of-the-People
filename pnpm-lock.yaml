@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  map: ^1.0.1
+
+dependencies:
+  map: 1.0.1
+
+packages:
+
+  /map/1.0.1:
+    resolution: {integrity: sha512-fK8tGmhZ+vGpl1a2fOwGBRtVfVulcNj54SWAAL7O8eaJoEjlqm3jFo+C8RQm4piXIHi+BNhqn00EdP5H8gS4bw==}
+    dev: false
